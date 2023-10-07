@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joshita-ToolTip/static/css/main.01578411.css",
+    "main.js": "/joshita-ToolTip/static/js/main.16e13a2d.js",
+    "index.html": "/joshita-ToolTip/index.html",
+    "main.01578411.css.map": "/joshita-ToolTip/static/css/main.01578411.css.map",
+    "main.16e13a2d.js.map": "/joshita-ToolTip/static/js/main.16e13a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01578411.css",
+    "static/js/main.16e13a2d.js"
+  ]
+}
